@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Umbrella",
+  "base_artist": "Rihanna",
+  "createdAt": "2026-02-25T12:17:31.728352Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Umbrella - Live",
+      "artist": "Girls' Generation (Tiffany)",
+      "has_synced": true,
+      "path": "select/01_Umbrella_-_Live_Girls'_Generation_(Tiffany).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Umbrella (티파니)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Umbrella_(티파니)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_Umbrella_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Umbrella",
+      "artist": "Kostars",
+      "has_synced": false,
+      "path": "select/04_Red_Umbrella_Kostars.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams & The Sole Sisters",
+      "has_synced": true,
+      "path": "select/05_Umbrella_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams_&_The_Sole_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Umbrella - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": false,
+      "path": "select/06_Umbrella_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Umbrella (Live)",
+      "artist": "Scott Bradlee's Postmodern Jukebox Casey Abrams",
+      "has_synced": false,
+      "path": "select/07_Umbrella_(Live)_Scott_Bradlee's_Postmodern_Jukebox_Casey_Abrams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Umbrella (Version 1)",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/08_Umbrella_(Version_1)_Dntel.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/09_Umbrella_Dntel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Umbrella (feat. Chris Gunst)",
+      "artist": "Dntel",
+      "has_synced": false,
+      "path": "select/10_Umbrella_(feat._Chris_Gunst)_Dntel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Umbrella (Rihanna cover)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/11_Umbrella_(Rihanna_cover)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Umbrella (Rihanna)",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/12_Umbrella_(Rihanna)_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "Rihanna feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/13_Umbrella_Rihanna_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Umbrella_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Umbrella (Live)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_Umbrella_(Live)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Umbrella",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_Umbrella_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Umbrella (Jody den Broeder Destruction radio edit)",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/17_Umbrella_(Jody_den_Broeder_Destruction_radio_edit)_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Umbrella (Jody den Broeder Destruction club remix)",
+      "artist": "Rihanna Feat. Jay-Z",
+      "has_synced": false,
+      "path": "select/18_Umbrella_(Jody_den_Broeder_Destruction_club_remix)_Rihanna_Feat._Jay-Z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Umbrella",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Umbrella_Rihanna.txt"
+    }
+  ]
+}
